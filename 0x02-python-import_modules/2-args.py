@@ -14,4 +14,4 @@ if __name__ == "__main__":
         print(f"{count} arguments:")
 
     for i in range(count):
-        print(f"{i+1}: {sys.argv[i+1]}")
+        print(f"{i + 1}: {sys.argv[i + 1]}")
