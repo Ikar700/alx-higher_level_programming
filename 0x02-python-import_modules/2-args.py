@@ -8,7 +8,7 @@ if __name__ == "__main__":
 
     if count == 0:
         print("0 arguments.")
-    elif count ==1:
+    elif count == 1:
         print(f"{count} argument:")
     else:
         print(f"{count} arguments:")
